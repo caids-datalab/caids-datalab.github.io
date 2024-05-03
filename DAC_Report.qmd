@@ -1,0 +1,384 @@
+---
+title: "Data Ambassador Council Program Report"
+subtitle: "Spring 2024"
+author: "Bolívar Aponte Rolón"
+date: today
+---
+
+```{r}
+#| echo: false
+#| eval: true
+library("tidyverse")
+library("DiagrammeR")
+```
+
+# Executive summary
+
+The Data Ambassador Council (DAC) is a diverse cohort of undergraduate an graduate students that engage and have an input at CAIDS by solving problems regarding data programming.
+The first DAC cohort undertook the objective of supporting CAIDS annual objective of "getting the word out about CAIDS".
+To address this DAC developed promotional products (e.g. sticker), social media and in-person strategies to increase CAIDS presence at Tulane University.
+
+The DAC developed social media presence by creating digital media and product with CAIDS brand, as well as slogans regarding data science and data literacy.
+The DAC team comprised of 10 undergraduate students, 1 graduate student and 1 graduate student serving as Data Lab Manager/Product Developer.
+The team meet bi-weekly starting in January 2024 until April 29th 2024.
+In the absence of a CAIDS communications liaison to enact the social media campaigns developed by DAC, the Data Lab Manager and DAC members assumed the responsibility.
+Since DAC assumed social media responsibilities, Facebook and Instagram posts' engagement increased by 150% and 82.7% respectively (see \[#Tasks and Sprints\] section).
+
+The main event organized was a tabling event on April 3 at McAlister Booths.
+The objective of the tabling event was to bring visibility to DAC and CAIDS events and course offering while collecting names and emails for a future list-serve and newsletter data base.
+This event required the development of stickers with CAIDS branding (e.g., "Data Equity" @tulanecaids, see below) and flyers advertising CAIDS' Fall 2024 course offerings.
+It was a success with over 50 people stopping by the table and providing their information.
+The same digital media used for flyers was used on social media platforms (Facebook, Instagram and X).
+All digital media is stored in the Data Lab's Canva account and Google Drive folder.
+
+The following report aims to summarize and reflect on the Data Lab's inaugural cohort of Data Ambassador Council (DAC) during Spring 2024.
+The DAC cohort was led by Dr. Jacquelyne Thoni-Howard, Ph. D.
+as the Data Lab Director and Bolívar Aponte Rolón as the Data Lab Manager.
+
+# Program Overview
+
+The Data Ambassador Council (DAC) aims to offer a diverse cohort of undergraduate an graduate students the opportunity to engage and have an input at CAIDS.
+In support of CAIDS vision and mission to "enable Tulane students across all disciplines to understand how data shapes our environment" and as advocates for data equity, DAC members communicate CAIDS initiatives to the student body at Tulane and act as a student-led focus group that explores data initiatives and solves problems to ensure that CAIDS data programming supports the needs of Tulane students.
+Through intentional and collaborative work, the DAC ambassadors will provide solutions and ideas centered around data programming needs (e.g. curriculum, workshops, etc.) at Tulane.
+Ambassadors will work with Tulane faculty, graduate students, and staff on projects that contribute to the advancement of data research, equity and literacy.
+This will provide Ambassadors the opportunity to develop technical skill sets in their areas of interest and beyond.
+
+## Objectives
+
+The Data Ambassador Council (DAC) aims to support participant students in gaining knowledge and skills to achieve data literacy by using equity frameworks that:
+
+1.  Collects information and provides feedback on the data needs (curriculum, programming, workshops, etc.) of undergraduate and graduate students at Tulane University. 
+2.  Works collaboratively as a focus group to brainstorm and solve problems around data programming.
+3.  Build supportive interdisciplinary equity-minded data communities for students at Tulane University through collaboration, mentorship, and networking.
+4.  Increases data literacy by engaging in data research (collecting, managing, analyzing, presenting) and making it accessible and relevant for technical and non-technical majors.
+5.  Works collaboratively as a scrum team on a range data research projects of CAIDS and Tulane faculty while building a portfolio of data and essential skills.
+6.  Foster high level scholarship through the use of free and open source software (FOSS) to develop transparent and reproducible data project deliverables, product reviews, project manuals, and workflows.
+
+***Project Types:*** 
+
+Students will discover data skills relating to Data Collection (Surveys), Focus Groups, Data Visualization, Graphic Design, Science Communication, and UX/UI by:
+
+-   Designing campaigns around swag, posters, and social media using graphic design. 
+-   Developing and administering surveys and polls on campus about data initiatives, 
+-   Sharing information with Tulane students through event planning, tabling, and presentations, 
+-   Showcasing advocacy work with a poster at the CAIDS [Data Zine and Poster Session](https://issuu.com/ncidigitalresearchlab).
+
+## Program Values
+
+### Intersectional Feminist Values
+
+These values were taken from the "[Feminist Pedagogy for Teaching Online](https://feminists-teach-online.tulane.edu/)" Guide.
+
+> "*Success is more than achieving your goals. It is living your values."* - Adam Grant
+
+Goals: Share work, delegate, collectively problem solve, forward-facing/open communications, do not hide, transparent/documentation, boundaries/self-care, take on realistic work, no blame/ take accountability, allow yourself to take risks, must document help tickets,
+
+**Team Value #1:** **Using technology intentionally to build communities and enhance learning and Examining the “why” in addition to the “what."**
+
+-   Scrum - Individual needs and Interactions over processes and tools. (Software)
+-   Center the client's needs including project sustainability and the intern's voices in doing that work.
+-   Active communication by eliminating information silos.
+-   Respond to change over following the plan. Prioritize flexibility of the team and functionality of the product. Document changes, make a new plan, and implement.
+-   Sometimes we have to do the difficult time consuming work instead of finding a trendy workaround.
+-   Considering the user and client's needs when researching and developing.
+
+**Team Value #2**: **Connecting to the personal and to communities outside of academia and Uncovering the causes of inequality and leveraging resources toward undoing power structures**
+
+-   Seeing the Reciprocal Exchanges in collaboration and in partnership.
+-   Focus on the client's needs, abilities, and sustainability when designing projects.
+-   Take care in your work by not speeding through tasks and starting projects last minute. See discussion, research and trial and error as part of the process.
+-   Document for the future in clear and simple terms as essential work.
+-   See the importance and bigger picture of the work that you are being trusted and asked to do.
+
+**Team Value #3:** **Treating students as agentic co-educators and promoting cooperative learning**
+
+-   Collaborative, interdisciplinary, student-led (bottom up management approach).
+-   Everyone has something to contribute and equal voice on the team.
+-   Everyone works on and knows about all of the projects.
+-   Keep up active cross team, cohort, and client communication channels through documentation (GitHub, skills manuals, product backlogs).
+-   Work in pairs and talk about work as much as possible
+
+**Team Value #4: Building equity, trust, mutual respect, and support**
+
+-   Pull together to get the work done.
+-   Support each other when working on challenging materials.
+-   Hold each other accountable for showing up ready to work.
+-   Listen and take away important information from meetings.
+-   Read the cards before the meeting.
+-   Show/Demonstrate your work. Interns will never be in trouble by showing that they tried or by communicating problems early.
+
+**Team Value #5: Cultivating self-care and boundaries**
+
+-   If sick or overwhelmed, proactively communicate with Jacque and make a plan. Do not come to work sick.
+-   Look at the week ahead before scrum and be realistic about the work you can take on.
+-   Communicate through proper channels especially when stuck.
+-   Give each other time to respond.
+-   Do not work off the clock.
+-   While Devs may ask questions when they are on shifts, the PDs will answer those questions asked in slack during their assigned slack office hours.
+
+**Team Value 6: Examining how gender, intersecting with other social categories, structures our lives, learning, and knowledge production, access to resources and information.**
+
+-   Readings and curriculum in Technology Studies
+-   Zine
+-   Technology Showcase
+
+## Policies & Rules
+
+# First Cohort Team Building
+
+The Spring of 2024 marked the first semester of the DAC program.
+The DAC set out to support CAIDS annual objective of "getting the word out about CAIDS".
+To address this DAC developed promotional products (e.g. sticker), social media and in-person strategies to increase CAIDS presence at Tulane University.\
+This broad objective from CAIDS created the challenge of "defining" what DAC was and what it was capable of achieving during a 17 week semester.
+The lack of previous experience from CAIDS and DAC members caused confusion on what DAC was supposed to do and how to do it.
+With the support of Dr. Howard and Bolívar Aponte, the students were able to translate objectives to actionable items to complete during each sprint.
+Incorporating students from the Downtown campus posed a great challenge, as well as including graduate students perspectives.
+While undergraduate students are generally more active on campus life and are living on-campus, graduate students from Uptown or Downtown campus have, generally, more responsibilities or "more" going on and arriving at a common meeting time and place required greater effort.
+This student profile is important to include in future cohorts because graduate students serves a teaching assistants and are active researcher at Tulane.
+They generate data and are tasked with extracting valuable insights from it.
+CAIDS and DAC can support their professional development by including them in DAC and creating products valuable to them.
+Team building is something that the Data Lab Manager and Product Developer need to address at the start of every cohort and represent an on going effort (see details in @sec-self_analysis section).
+
+## A framework to reach solutions
+
+The DAC team's way reaching solutions is based on the SCRUM/agile framework top **deliver value** incrementally.
+We met bi-weekly and established tasks to work on for two-week sprints.
+During meetings we had individual stand ups with ambassadors and check ins on what was achieved during the sprint.
+We approached and measured success by answering:\
+- What did I work on yesterday (past-week)?
+- What am I working on today (current-week)?
+- What issues are blocking me?
+
+By addressing these questions we made sure to renegotiate the following sprints goals and objectives.
+Our team workflow was the following:
+
+### Scrum flowchart
+
+```{mermaid}
+flowchart BT
+
+subgraph Products/Projects
+
+A((Product Backlog))
+
+  
+
+B((Sprint Backlog))
+
+end
+
+subgraph Bi-weekly-Meetings
+
+C((Bi-weekly Standup))
+
+  
+
+D((Sprint Review))
+
+  
+
+E((Sprint Retrospective))
+
+end
+
+  
+
+A --> B
+
+  
+
+E --> A
+
+  
+
+C --> D
+
+  
+
+D --> E
+
+  
+
+B --> C
+
+  
+
+Products/Projects <--> Bi-weekly-Meetings
+
+  
+```
+
+## Key Positions: Data Lab Manager
+
+The Spring 2024 DAC cohort benefited from having a designated graduate student functioning as Product Developer with the following duties: - Represent and communicate graduate students' data related needs.
+- Mentor DAC members.
+- Organize bi-weekly meetings.
+- Establish meeting agendas and objectives.
+- Manage Projects through Notion (project management platform).
+- Develop skill training for DAC member or allocate resources for skill building.
+- Collaborate with CAIDS Communications Manager to streamline social media campaigns, surveys and promotional material generated by DAC.
+
+### Data Lab Manager operations flowchart
+
+``` {mermaid}
+flowchart TB
+
+A((Data Peer Mentor Program))
+B((Data Ambassador Council))
+C((Data Research Internship Program))
+
+D([Data Lab Manager])
+H([Data Lab Director])
+E([Product Developer])
+F([Product Developer])
+G([Product Developer])
+
+H ==> D
+D --> E & F & G
+E --> A 
+F --> B 
+G --> C
+
+style D color:#000000,fill:#ffcf11,stroke:#333,stroke-width:4px
+  
+```
+
+### 
+
+# Tasks and Sprints
+
+## Social Media and Products
+
+Another challenge for this is producing the digital template for better branding on our social media posts
+
+### Deliverables
+
+#### Stickers
+
+#### Course flyers
+
+### Outcomes
+
+## Workshops
+
+### Deliverables
+
+## Skill Learning
+
+# Self Analysis {#sec-self_analysis}
+
+Getting the teams together and setting up the infrastructure.
+How was DAC gonna work?
+
+## 1. Review of Previous Actions
+
+```         
+- Analysis of SAC's actions over Spring 2024
+- Assessment of the effectiveness of strategies
+```
+
+|                                                       |
+|-------------------------------------------------------|
+| Tabling needs materials and equipment!!               |
+| Umbrella+Sunscreen                                    |
+| Tabling: Add a tapper or shared spreadsheet           |
+| Printed to many handouts. Pass out around the campus. |
+
+## 2. Recommendations to CAIDS
+
+```         
+- Brainstorming session on what SAC should recommend to CAIDS
+- Identifying key areas of focus and priority issues
+- Drafting clear and actionable recommendations
+```
+
+|                                                                                                                                                                                                                                                                                                                     |
+|------------------------------------------------------------------------|
+| Helping students with their assignments that are data related and identifying what is data related.  Expand the peer mentor program.  ·      Undergraduate – peer mentors in the classroom·      Graduate – stats help desk peer mentors (help session – weekly office hours- even if it is just guiding resource). |
+| badging, Mooc, student programs (badging).                                                                                                                                                                                                                                                                          |
+
+## 3. Post-Mortem Analysis
+
+```         
+- Evaluation of recent activities and projects
+- Identification of strengths, weaknesses, opportunities, and threats
+- Recommendations for improvement based on the analysis
+```
+
+|                                                                        |
+|------------------------------------------------------------------------|
+| First meeting can be dedicated to learning working on Notion and Slack |
+| Getting to know each other!                                            |
+| Activities in the beginning of meetings. Work on team building!!!      |
+| Team bonding activity with food, one a week meeting?                   |
+| Is SAC a data/tech translator?                                         |
+
+## 4. Next Year's Theme
+
+```         
+- Reflection on the current year's theme
+- Brainstorming session on potential themes for the upcoming year
+- Consensus-building on the theme for the next year
+```
+
+|                                           |
+|-------------------------------------------|
+| "Getting involved with data on the side." |
+| How can you be a self starter with data?  |
+
+## 5. Future Projects and Initiatives
+
+```         
+- Objectives for the next semester
+- Planning for new projects and initiatives
+- Allocation of responsibilities and resources
+```
+
+|                                                                         |
+|------------------------------------------------------------------------|
+| Leading Data Week?                                                      |
+| Educational Social Media                                                |
+| Example: What wrong with this chart?                                    |
+| Data Speaker Series!!!                                                  |
+| A bigger peer mentor program!                                           |
+| Careers in Data                                                         |
+| Ask Greydon Piper in FYE to add CAIDS to the their peer mentor scripts. |
+| Ask Green wave ambassadors to mention CAIDs (Bailey Gabrish)            |
+| Existing programs at Tulane                                             |
+| "Getting involved with data on the side."                               |
+| build a resource guide to learn how to use tools on tehe side           |
+| certaport, gmatrix, badging                                             |
+
+## 6. Potential Actions for next semester
+
+```         
+A. Word of Mouth Social Media Campaign  
+    - Overview of the proposed campaign
+    - Brainstorming session on campaign strategies and tactics
+    - Assigning tasks and timelines for campaign implementation
+```
+
+|                                                                                                                 |
+|------------------------------------------------------------------------|
+| Monthly Tabling Event!                                                                                          |
+| More in-House trainings!                                                                                        |
+| Newsletter!                                                                                                     |
+| Leading Data Week?                                                                                              |
+| Become as Student Organization??                                                                                |
+| Being a student organization would give SAC more power. Can students get paid in a student org?                 |
+| Create dedicated shifts! We do get paid, so we can create dedicated shift and folks know who's working on what. |
+
+## 7. Next Steps and Action Items
+
+```         
+- Summarize key decisions and action points
+- Assigning responsibilities and setting deadlines
+- Confirming the date and agenda for the next meeting 
+```
+
+|                                                                          |
+|------------------------------------------------------------------------|
+| Focusing on careers in data!                                             |
+| Tailor data workshops in Excel, R and Python to Freshman and sophomores? |
+
+# Next Steps and Actions Items
