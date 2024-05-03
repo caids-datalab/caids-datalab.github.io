@@ -3,6 +3,30 @@ title: "Data Ambassador Council Program Report"
 subtitle: "Spring 2024"
 author: "Bolívar Aponte Rolón"
 date: today
+# format:
+#   html:
+#     toc: true
+#     toc-location: left
+#     toc-depth: 2
+#     number-sections: true
+#     number-depth: 1
+#     theme: lumen
+#     highlight-style: github
+#     code-overflow: wrap
+#     code-fold: false
+#     code-copy: true
+#     code-link: false
+#     code-tools: false
+#     code-block-border-left: "#0C3823"
+#     code-block-bg: "#eeeeee"
+#     fig-cap-location: margin
+#     linestretch: 1.25
+#     fontsize: "large"
+#     embed-resources: true
+# 
+# execute:
+#   echo: false
+#   keep-md: false
 ---
 
 ```{r}
@@ -22,7 +46,7 @@ The DAC developed social media presence by creating digital media and product wi
 The DAC team comprised of 10 undergraduate students, 1 graduate student and 1 graduate student serving as Data Lab Manager/Product Developer.
 The team meet bi-weekly starting in January 2024 until April 29th 2024.
 In the absence of a CAIDS communications liaison to enact the social media campaigns developed by DAC, the Data Lab Manager and DAC members assumed the responsibility.
-Since DAC assumed social media responsibilities, Facebook and Instagram posts' engagement increased by 150% and 82.7% respectively (see \[#Tasks and Sprints\] section).
+Since DAC assumed social media responsibilities, Facebook and Instagram posts' engagement increased by 150% and 82.7% respectively (see @sec-tasks section).
 
 The main event organized was a tabling event on April 3 at McAlister Booths.
 The objective of the tabling event was to bring visibility to DAC and CAIDS events and course offering while collecting names and emails for a future list-serve and newsletter data base.
@@ -155,6 +179,9 @@ Our team workflow was the following:
 ### Scrum flowchart
 
 ```{mermaid}
+---
+title: Scrum flowchart
+---
 flowchart BT
 
 subgraph Products/Projects
@@ -220,7 +247,11 @@ The Spring 2024 DAC cohort benefited from having a designated graduate student f
 
 ### Data Lab Manager operations flowchart
 
-``` {mermaid}
+```{mermaid}
+---
+title: The Data Lab operations flowchart
+---
+
 flowchart TB
 
 A((Data Peer Mentor Program))
@@ -245,37 +276,80 @@ style D color:#000000,fill:#ffcf11,stroke:#333,stroke-width:4px
 
 ### 
 
-# Tasks and Sprints
+# Tasks and Sprints {#sec-tasks}
+
+The DAC team worked on by-weekly sprints working toward a main tabling event in April 3 and developing social media campaigns.
+The bi-weekly sprints can be found at the following link: [DAC Bi-weekly Sprints](https://obsidian-industry-f8a.notion.site/1cd78a0f24ea4a3aa07abbf4dc80f81f?v=9d69c094ac5a4522a96bc3e19c84cf0c) and tasks can be found at the following link: [DAC Tasks](https://obsidian-industry-f8a.notion.site/1272981cd034495fb2846b694c792d44?v=ca6a491722114a12bdaf15b21fc3d7d7).
 
 ## Social Media and Products
 
-Another challenge for this is producing the digital template for better branding on our social media posts
+A challenge DAC faced was the lack of cohesive branding and digital media for CAIDS.
+We developed a digital template for social media posts and stickers based on Tulane's [Creative Style Guide](https://communications.tulane.edu/brand/creative-style).
+With a cohesive branding strategy, DAC was able to focus on the content of the posts and stickers.
+The following are examples of the digital media developed by DAC that was used on social media platforms (Facebook, Instagram and X) and in-person tabling events:
 
-### Deliverables
+### Stickers
 
-#### Stickers
+![Image 1: Stickers created by DAC: A](digital/stickers.jpg){width="536"}
 
-#### Course flyers
+### Course flyers
 
-### Outcomes
+::: {layout-nrow="2"}
+![Image 2B: Course flyers created by DAC](digital/instagram/2.png){width="700"}
 
-## Workshops
+![IMage 2C: Course flyers created by DAC](digital/instagram/3.png){width="700"}
+:::
 
-### Deliverables
+### Templates for Social Media Spotlight Series
 
-## Skill Learning
+::: {layout-nrow="2"}
+![Image 3A: Spotlight Series Template: 1A](digital/instagram/1_spotlight.png){width="700"}
+
+![Image 3B: Spotlight Series Template: 1B](digital/instagram/2_spotlight.png){width="700"}{height="700"}
+
+![Image 3C: Spotlight Series Template: 1C](digital/instagram/3_spotlight.png){width="700"}{height="700 "}
+:::
+
+### Social Media Posts
+
+![Image 4: Social Media Posts](digital/instagram/Data_literacy_course.png){width="500"}{height="850"}
+
+### Tabling event
+
+The main event organized was a tabling event on April 3 at McAlister Booths.
+The flyers shown above were used to advertise CAIDS' Fall 2024 course offerings.
+
+![Image 5: Tabling event](digital/instagram/sac_tabling.jpg){width="500"}{height="850"}
+
+## Workshops and Skill Learning
+
+With the support of Dr. Howard, DAC members participated in a workshop on Project Management to learn and apply skills to their projects and at DAC meetings.
+The workshop was facilitated by Sunshine Best, DrPH(c).
+She is a project manager and data analyst with over 10 years of experience in the public health sector and industry.
+She shared her experience with the following topics:
+
+-   Project Management Basics
+-   Project Management Best Practices
+
+Upon completion of the workshop, DAC members were able have a open discussion with Sunshine and apply the following skills to their work for the rest of the semester.
 
 # Self Analysis {#sec-self_analysis}
 
-Getting the teams together and setting up the infrastructure.
-How was DAC gonna work?
+The DAC team synthesized their experience throughout the semester in two meetings at the end of the semester.
+These meetings used the skilled learned at the Project Management workshop and were centered around the following topics:
+
+-   Review of Previous Actions
+-   Recommendations to CAIDS
+-   Post-Mortem Analysis
+-   Next Year's Theme
+-   Future Projects and Initiatives
+-   Potential Actions for next semester
+-   Next Steps and Action Items
+
+There is overlap between the topics and this is intentional in order to create a comprehensive analysis of the DAC program.
+The following are the key un-edited takeaways per topic from the self analysis meetings:
 
 ## 1. Review of Previous Actions
-
-```         
-- Analysis of SAC's actions over Spring 2024
-- Assessment of the effectiveness of strategies
-```
 
 |                                                       |
 |-------------------------------------------------------|
@@ -286,24 +360,15 @@ How was DAC gonna work?
 
 ## 2. Recommendations to CAIDS
 
-```         
-- Brainstorming session on what SAC should recommend to CAIDS
-- Identifying key areas of focus and priority issues
-- Drafting clear and actionable recommendations
-```
-
-|                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                    |
 |------------------------------------------------------------------------|
-| Helping students with their assignments that are data related and identifying what is data related.  Expand the peer mentor program.  ·      Undergraduate – peer mentors in the classroom·      Graduate – stats help desk peer mentors (help session – weekly office hours- even if it is just guiding resource). |
-| badging, Mooc, student programs (badging).                                                                                                                                                                                                                                                                          |
+| Helping students with their assignments that are data related and identifying what is data related.                |
+| Expand the peer mentor program.                                                                                    |
+| Undergraduate – peer mentors in the classroom·                                                                     |
+| Graduate – stats help desk peer mentors (help session – weekly office hours- even if it is just guiding resource). |
+| badging, Mooc, student programs (badging).                                                                         |
 
 ## 3. Post-Mortem Analysis
-
-```         
-- Evaluation of recent activities and projects
-- Identification of strengths, weaknesses, opportunities, and threats
-- Recommendations for improvement based on the analysis
-```
 
 |                                                                        |
 |------------------------------------------------------------------------|
@@ -315,24 +380,12 @@ How was DAC gonna work?
 
 ## 4. Next Year's Theme
 
-```         
-- Reflection on the current year's theme
-- Brainstorming session on potential themes for the upcoming year
-- Consensus-building on the theme for the next year
-```
-
 |                                           |
 |-------------------------------------------|
 | "Getting involved with data on the side." |
 | How can you be a self starter with data?  |
 
 ## 5. Future Projects and Initiatives
-
-```         
-- Objectives for the next semester
-- Planning for new projects and initiatives
-- Allocation of responsibilities and resources
-```
 
 |                                                                         |
 |------------------------------------------------------------------------|
@@ -351,13 +404,6 @@ How was DAC gonna work?
 
 ## 6. Potential Actions for next semester
 
-```         
-A. Word of Mouth Social Media Campaign  
-    - Overview of the proposed campaign
-    - Brainstorming session on campaign strategies and tactics
-    - Assigning tasks and timelines for campaign implementation
-```
-
 |                                                                                                                 |
 |------------------------------------------------------------------------|
 | Monthly Tabling Event!                                                                                          |
@@ -370,15 +416,25 @@ A. Word of Mouth Social Media Campaign
 
 ## 7. Next Steps and Action Items
 
-```         
-- Summarize key decisions and action points
-- Assigning responsibilities and setting deadlines
-- Confirming the date and agenda for the next meeting 
-```
-
 |                                                                          |
 |------------------------------------------------------------------------|
 | Focusing on careers in data!                                             |
 | Tailor data workshops in Excel, R and Python to Freshman and sophomores? |
 
-# Next Steps and Actions Items
+# Conclusion
+
+The DAC team was able build foundations for supporting CAIDS' annual objective of "getting the word out about CAIDS".
+Indeed, got the word out but more work is needed in this front.
+With the development of promotional products (e.g. sticker), social media and in-person strategies to increase CAIDS presence at Tulane University the DAC team gain skills in product development and project management.
+Additional steps are needed to support cohort's development of data analysis skills (i.e., learning statistical programming languages) in order to partake in greater data intensive projects.
+The continuations of DAC members in the teams can provide the opportunity for students to mature in their roles and take on more challenging projects and skills.
+
+The self analysis meetings helped DAC members reflect on their experience and provide recommendations to CAIDS for future cohorts.
+The main takeaway from the meetings is the need for more team building activities and a more structured on-boarding process for new members.
+This would be facilitated by both students participating in DAC and CAIDS staff.
+Another topic that stood out was the potential for becoming a student organization which would give DAC more power to request funds from other sources at the university and the flexibility to engage with other student organizations.
+Some topics could require reaching out to other Tulane department and institutes to provide in-house training to DAC members.
+These main takeaways are important to consider for the next cohort because they reflect a need to build a better team and gain skills through workshop and peer-mentoring in order to take on bigger projects.
+
+With these considerations in mind, CAIDS can ensure the DAC team develops as a key component of to fulfill CAIDS' mission and vision.
+The DAC team is looking forward to the next cohort and the development of new projects and initiatives.
