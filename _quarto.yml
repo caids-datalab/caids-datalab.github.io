@@ -16,7 +16,7 @@ format:
     toc: true
     toc-location: left
     toc-depth: 2
-    number-sections: true
+    number-sections: false
     number-depth: 1
     theme: lumen
     highlight-style: github
@@ -30,7 +30,9 @@ format:
     fig-cap-location: margin
     linestretch: 1.25
     fontsize: "large"
+    fontfamily: roboto
     embed-resources: true
+css: styles.css
 
 
 
