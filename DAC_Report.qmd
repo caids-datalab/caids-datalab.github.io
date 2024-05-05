@@ -163,7 +163,7 @@ Our team workflow was the following:
 
 ```{mermaid}
 ---
-title: Scrum flowchart
+title:Scrum flowchart
 ---
 flowchart BT
 
@@ -237,7 +237,7 @@ The Spring 2024 DAC cohort benefited from having a designated graduate student f
 
 ```{mermaid}
 ---
-title: The Data Lab
+title:The Data Lab
 ---
 
 flowchart TB
