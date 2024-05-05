@@ -1,6 +1,6 @@
 ---
-title: "Data Ambassador Council Program Report"
-subtitle: "Spring 2024"
+title: "Data Ambassador Council Program"
+subtitle: "Spring 2024 Report"
 author:
   - name: Bolívar Aponte Rolón, Ph.D.
     email: baponterolon@tulane.edu
