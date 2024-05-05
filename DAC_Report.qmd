@@ -286,6 +286,8 @@ The following are examples of the digital media developed by DAC that was used o
 ### Course flyers
 
 ::: {layout-nrow="2"}
+![Image 2A: Course flyers created by DAC](digital/flyers.png){width="250"}
+
 ![Image 2B: Course flyers created by DAC](digital/instagram/2.png){width="250"}
 
 ![Image 2C: Course flyers created by DAC](digital/instagram/3.png){width="250"}
