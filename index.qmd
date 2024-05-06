@@ -1,6 +1,6 @@
 ---
-title: "Welcome to the Data Lab's GitHub"
-subtitle: "Connolly Alexander Institute for Data Science (CAIDS)!"
+title: "Welcome to the Data Lab's GitHub!"
+subtitle: "Connolly Alexander Institute for Data Science (CAIDS)"
 title-block-banner: "#285C4D"
 title-block-banner-color: "#ffffff"
 ---
