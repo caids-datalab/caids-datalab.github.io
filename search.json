@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the Data Lab’s GitHub",
-    "section": "",
-    "text": "At CAIDS, we empower undergraduate and graduate students to shape the data literacy landscape at Tulane University and beyond. Our mission is to build interdisciplinary and equity-minded data communities through collaboration and mutual support.\nThrough our GitHub repositories and pages we share code and resources produced by participants in our programs. Feel free to put in a pull request and contribute."
-  },
-  {
-    "objectID": "index.html#our-programs",
-    "href": "index.html#our-programs",
-    "title": "Welcome to the Data Lab’s GitHub",
-    "section": "Our Programs",
-    "text": "Our Programs\n\n1. Student Scholarships\n\nObjective: Foster supportive interdisciplinary equity-minded data communities for undergraduate and graduate students through scholarship, collaboration, mentorship, and networking.\n\n\n\n2. Data Accessibility Initiative\n\nObjective: Make data work accessible and relevant for both technical and non-technical majors and fields.\n\n\n\n3. Equity Framework Exploration\n\nObjective: Explore and apply data equity frameworks to build enriching data communities based on mutual support, including anti-racist, queer, feminist, and social justice pedagogies and epistemologies.\n\n\n\n4. Knowledge Creation\n\nObjective: Become a maker of open-sourced technical and scholarly knowledge about data by producing project deliverables, product reviews, project manuals, and scholarship."
-  },
-  {
-    "objectID": "index.html#join-us",
-    "href": "index.html#join-us",
-    "title": "Welcome to the Data Lab’s GitHub",
-    "section": "Join Us!",
-    "text": "Join Us!\nWhether you’re a seasoned tech enthusiast or a novice interested in learning about data, our paid opportunities can help you build a diverse portfolio and valuable skills.\nReady to dive in? Join us in shaping the future of data at Tulane University!\nApply Now"
-  },
-  {
     "objectID": "DAC_Report.html",
     "href": "DAC_Report.html",
     "title": "Data Ambassador Council Program",
@@ -124,5 +103,26 @@
     "title": "Data Ambassador Council Program",
     "section": "7. Next Steps and Action Items",
     "text": "7. Next Steps and Action Items\n\n\n\n\n\n\nFocusing on careers in data!\n\n\nTailor data workshops in Excel, R and Python to Freshman and sophomores?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Data Lab’s GitHub!",
+    "section": "",
+    "text": "At CAIDS, we empower undergraduate and graduate students to shape the data literacy landscape at Tulane University and beyond. Our mission is to build interdisciplinary and equity-minded data communities through collaboration and mutual support.\nThrough our GitHub repositories and pages we share code and resources produced by participants in our programs. Feel free to put in a pull request and contribute."
+  },
+  {
+    "objectID": "index.html#our-programs",
+    "href": "index.html#our-programs",
+    "title": "Welcome to the Data Lab’s GitHub!",
+    "section": "Our Programs",
+    "text": "Our Programs\n\n1. Student Scholarships\n\nObjective: Foster supportive interdisciplinary equity-minded data communities for undergraduate and graduate students through scholarship, collaboration, mentorship, and networking.\n\n\n\n2. Data Accessibility Initiative\n\nObjective: Make data work accessible and relevant for both technical and non-technical majors and fields.\n\n\n\n3. Equity Framework Exploration\n\nObjective: Explore and apply data equity frameworks to build enriching data communities based on mutual support, including anti-racist, queer, feminist, and social justice pedagogies and epistemologies.\n\n\n\n4. Knowledge Creation\n\nObjective: Become a maker of open-sourced technical and scholarly knowledge about data by producing project deliverables, product reviews, project manuals, and scholarship."
+  },
+  {
+    "objectID": "index.html#join-us",
+    "href": "index.html#join-us",
+    "title": "Welcome to the Data Lab’s GitHub!",
+    "section": "Join Us!",
+    "text": "Join Us!\nWhether you’re a seasoned tech enthusiast or a novice interested in learning about data, our paid opportunities can help you build a diverse portfolio and valuable skills.\nReady to dive in? Join us in shaping the future of data at Tulane University!\nApply Now"
   }
 ]
