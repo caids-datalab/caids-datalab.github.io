@@ -22,6 +22,9 @@ website:
 
       - text: "Reports"
         href: DAC_Report.qmd
+        
+      - text: "DATA SPARK"
+        href: DATA_SPARK.qmd
 
       - icon: github
         href: https://github.com/caids-datalab
@@ -39,7 +42,7 @@ format:
     toc-depth: 2
     number-sections: true
     number-depth: 1
-    theme: lumen
+    theme: flatly
     highlight-style: github
     code-overflow: wrap
     code-fold: false
