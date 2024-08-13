@@ -1,5 +1,5 @@
 ---
-title: "DATA SPARC"
+title: "DATA SPARK"
 subtitle: "An Initiative to Expand Data Literacy and Promote Data Champions at Tulane University"
 author:
   - name: Bolívar Aponte Rolón, Ph.D.
@@ -17,11 +17,11 @@ library("DiagrammeR")
 ```
 
 ## Goal of proposal
-The main objective of this document is to present a proposal for the expansion of programs the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University currently provides by creating pathways to support data literacy among graduate students. This proposal presents two additional pathways, aside from the current Graduate Summer Research Award: Boot-camp and Knowledge Exchange. All under the umbrella of DATA SPARC.
+The main objective of this document is to present a proposal for the expansion of programs the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University currently provides by creating pathways to support data literacy among graduate students. This proposal presents two additional pathways, aside from the current Graduate Summer Research Award: Boot-camp and Knowledge Exchange. All under the umbrella of DATA SPARK.
 
 ## Summary Description of the Initiative
 
-The Data Analytics Training and Apprenticeship - Student Program for Advanced Research Knowledge (DATA SPARC) program aims to support graduate students' training and professional development by sponsoring their development of core competencies in data science and related fields. DATA SPARC supports graduate student training through three pathways:
+The Data Analytics Training and Apprenticeship - Student Program for Advanced Research Knowledge (DATA SPARK) program aims to support graduate students' training and professional development by sponsoring their development of core competencies in data science and related fields. DATA SPARK supports graduate student training through three pathways:
 
 - Boot-camp
 - Knowledge Exchange
@@ -33,7 +33,7 @@ flowchart TB
     B[Knowledge Exchange]
     C[Graduate Summer Research Award]
 
-    D[DATA SPARC]
+    D[DATA SPARK]
     D --> A
     D --> B
     D --> C
@@ -49,8 +49,8 @@ flowchart TB
 
 
 
-### SPARC Boot-camp
-The  SPARC Boot-camp is an in-person training program designed to equip graduate students with data science and computational skills, from beginner to advanced levels. The program invites graduate students to participate in a one or two-week course (depending on schedule), where they will receive intensive training from experienced professors and senior graduate students from Tulane. The content of the course will range from introductory data science with R and Python to advanced topics in machine learning and AI.
+### SPARK Boot-camp
+The  SPARK Boot-camp is an in-person training program designed to equip graduate students with data science and computational skills, from beginner to advanced levels. The program invites graduate students to participate in a one or two-week course (depending on schedule), where they will receive intensive training from experienced professors and senior graduate students from Tulane. The content of the course will range from introductory data science with R and Python to advanced topics in machine learning and AI.
 
 ##### Participants
 Participants will gain practical experience in data science by working with common datasets such as the Cars and Palmer Penguins, as well as their own research data. Each scientific field and its associated data present unique challenges. By engaging with datasets relevant to their interests, participants not only enhance their learning but also produce valuable deliverables that contribute to their research endeavors.
@@ -102,7 +102,7 @@ Boot-camp course proposals will be reviewed by members of the Connolly Alexander
 5. The budget should be planned as a cost-effective use of grant funds and other Tulane resources and should not duplicate existing activities or programs. 
 6. The boot-camp course must be a new topic or an expansion of an existing course or topic series. Priority will be given to new and innovative topics that focus on partnership building (on-campus and/or off-campus) and creative collaboration. 
 
-### SPARC Knowledge Exchange
+### SPARK Knowledge Exchange
 
 There are numerous courses, boot camps, and seminars dedicated to teaching data science and related fields. The Knowledge Exchange pathway aims to support graduate students by providing funding to participate in external training programs, seminars, conferences or similar events and subsequently share that knowledge at Tulane. The application process requires 1) a statement of interest explaining the event and its relevance to their research and career goals, 2) a CV/Resume, and 3) a brief proposal for a workshop or tutorial they plan to deliver upon their return. After completing their training, participants must present their acquired knowledge through a one-hour in-person or online workshop, a written tutorial, or a vignette to be included in the CAIDS GitHub repository for future reference. For training that requires access to code, participants are encouraged to share the source code on [CAIDS GitHub](https://github.com/caids-datalab) as long as it is public or original authors provide permission to share.
 
@@ -180,7 +180,7 @@ Grant recipients must submit a progress report to Meg Keenan at [mkeean@tulane.
 	- [CascadiaR](https://cascadiarconf.com/)
 	- [Grace Hopper celebration](https://ghc.anitab.org/)
 
-## How does CAIDS support to DATA SPARC initiative?
+## How does CAIDS support to DATA SPARK initiative?
 ### Scheduling Workshops
 
 - **Coordination:** Work with DAC and DRI to determine suitable dates and times
