@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://caids-datalab.github.io/DATA_SPARK.html</loc>
+    <lastmod>2024-08-13T00:27:11.662Z</lastmod>
+  </url>
+  <url>
     <loc>https://caids-datalab.github.io/DAC_Report.html</loc>
-    <lastmod>2024-05-05T22:59:25.732Z</lastmod>
+    <lastmod>2024-08-13T00:27:13.082Z</lastmod>
   </url>
   <url>
     <loc>https://caids-datalab.github.io/index.html</loc>
-    <lastmod>2024-05-06T16:40:32.180Z</lastmod>
+    <lastmod>2024-08-13T00:26:48.192Z</lastmod>
+  </url>
+  <url>
+    <loc>https://caids-datalab.github.io/report_beyond_iris/DATA_SPARK.html</loc>
+    <lastmod>2024-08-12T23:08:33.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://caids-datalab.github.io/grant_evaluation/evaluation_guideline.html</loc>
+    <lastmod>2024-06-07T19:19:21.313Z</lastmod>
   </url>
 </urlset>
