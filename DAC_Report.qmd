@@ -4,7 +4,7 @@ subtitle: "Spring 2024 Report"
 author:
   - name: Bolívar Aponte Rolón, Ph.D.
     email: baponterolon@tulane.edu
-date: today
+date: May 6, 2024
 title-block-banner: "#285C4D"
 title-block-banner-color: "#ffffff"
 ---
