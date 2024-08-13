@@ -1,7 +1,7 @@
 # DATA SPARK: an Initiative to Expand Data Literacy and Promote Data Champions at Tulane University
 
 ## Goal of proposal
-The main objective of this document is to present a proposal for the expansion of programs the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University currently provide by creating pathways to support data literacy among graduate students. This proposal presents two additional pathways, aside from the current Graduate Summer Research Award: Boot-camp and Knowledge Exchange. All under the umbrella of DATA SPARK.
+The main objective of this document is to present a proposal for the expansion of programs the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University currently provides by creating pathways to support data literacy among graduate students. This proposal presents two additional pathways, aside from the current Graduate Summer Research Award: Boot-camp and Knowledge Exchange. All under the umbrella of DATA SPARK.
 ## Summary Description of the Initiative
 
 The Data Analytics Training and Apprenticeship - Student Program for Advanced Research Knowledge (DATA SPARK) program aims to support graduate students' training and professional development by sponsoring their development of core competencies in data science and related fields.  DATA SPARK supports graduate student training through three pathways:
